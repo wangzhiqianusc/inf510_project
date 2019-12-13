@@ -1,0 +1,81 @@
+,year,name,sales,saleschange,units,unitschange,segment,menu_category
+0,2019,mcdonalds,"$38,524",2.4%,"13,914",-0.9%,Quick Service,Burger
+1,2019,starbucks,"$19,660*",8.3%,"14,606",4.9%,Quick Service,Coffee Cafe
+2,2019,subway,"$10,410",-3.6%,"24,798",-4.3%,Quick Service,Sandwich
+3,2019,taco-bell,"$10,360",5.8%,"6,588",2.2%,Quick Service,Mexican
+4,2019,chick-fil,"$10,180*",13.5%,"2,370",6.5%,Quick Service,Chicken
+5,2019,burger-king,"$9,939",3.3%,"7,330",1.4%,Quick Service,Burger
+6,2019,wendys,"$9,405",1.9%,"5,810",0.7%,Quick Service,Burger
+7,2019,dunkin,"$8,786",3.9%,"9,419",3.0%,Quick Service,Coffee Cafe
+8,2019,dominos,"$6,591",11.2%,"5,876",5.2%,Quick Service,Pizza
+9,2019,panera-bread,"$5,760*",4.7%,"2,074",1.5%,Fast Casual,Bakery Cafe
+10,2019,pizza-hut,"$5,526",0.3%,"7,482",-0.5%,Quick Service,Pizza
+11,2019,chipotle-mexican-grill,"$4,805",8.7%,"2,452",3.7%,Fast Casual,Mexican
+12,2019,sonic-drive,"$4,447",0.9%,"3,606",0.4%,Quick Service,Burger
+13,2019,kfc,"$4,433",0.4%,"4,074",-0.9%,Quick Service,Chicken
+14,2019,applebees,"$4,211",2.3%,"1,693",-5.0%,Casual Dining,Varied Menu
+15,2019,olive-garden,"$4,082",3.7%,855,1.2%,Casual Dining,Italian/Pizza
+16,2019,arbys,"$3,886",7.0%,"3,329",1.4%,Quick Service,Sandwich
+17,2019,little-caesars,"$3,820*",3.5%,"4,350",0.4%,Quick Service,Pizza
+18,2019,buffalo-wild-wings,"$3,795",-1.0%,"1,208",0.2%,Casual Dining,Sports Bar
+19,2019,dairy-queen,"$3,654",0.3%,"4,406",-1.1%,Quick Service,Frozen Desserts
+20,2018,mcdonalds,"$37,639",3.4%,"14,036",-0.8%,Quick Service,Burger
+21,2018,starbucks,"$17,650*",7.0%,"13,930",5.8%,Quick Service,Coffee Cafe
+22,2018,subway,"$10,800",-4.4%,"25,908",-3.1%,Quick Service,Sandwich
+23,2018,taco-bell,"$9,790",4.7%,"6,446",2.7%,Quick Service,Mexican
+24,2018,burger-king,"$9,645*",3.5%,"7,226",1.0%,Quick Service,Burger
+25,2018,wendys,"$9,310",3.0%,"5,769",0.5%,Quick Service,Burger
+26,2018,chick-fil,"$9,020",14.2%,"2,261",7.6%,Quick Service,Chicken
+27,2018,dunkin-donuts,"$8,458",2.8%,"9,141",3.5%,Quick Service,Coffee Cafe
+28,2018,dominos,"$5,925",11.1%,"5,587",4.0%,Quick Service,Pizza
+29,2018,pizza-hut,"$5,510",-4.2%,"7,522",-2.2%,Quick Service,Pizza
+30,2018,panera-bread,"$5,465*",6.5%,"2,050",1.6%,Fast Casual,Bakery Cafe
+31,2018,kfc,"$4,417",-1.5%,"4,109",-1.4%,Quick Service,Chicken
+32,2018,chipotle-mexican-grill,"$4,415",14.6%,"2,364",7.6%,Fast Casual,Mexican
+33,2018,sonic-drive,"$4,408",-2.4%,"3,593",1.0%,Quick Service,Burger
+34,2018,applebees,"$4,117",-6.8%,"1,782",-4.0%,Casual Dining,Varied Menu
+35,2018,olive-garden,"$3,938",2.6%,845,0.6%,Casual Dining,Italian/Pizza
+36,2018,buffalo-wild-wings,"$3,833",3.5%,"1,206",1.6%,Casual Dining,Sports Bar
+37,2018,little-caesars,"$3,722*",2.1%,"4,332",0.2%,Quick Service,Pizza
+38,2018,dairy-queen,"$3,643",0.6%,"4,455",-1.4%,Quick Service,Frozen Desserts
+39,2018,arbys,"$3,634",1.3%,"3,283",1.4%,Quick Service,Sandwich
+40,2017,mcdonalds,"$36,389,000",1.5%,"14,155",-0.7%,Quick Service,Burger
+41,2017,starbucks,"$14,673,400*",11.3%,"13,172",5.2%,Quick Service,Coffee Cafe
+42,2017,subway,"$11,300,000",-1.7%,"26,744",-1.3%,Quick Service,Sandwich
+43,2017,burger-king,"$9,430,100*",2.6%,"7,161",0.5%,Quick Service,Burger
+44,2017,taco-bell,"$9,353,772",6.0%,"6,278",2.6%,Quick Service,Mexican
+45,2017,wendys,"$8,963,600*",0.6%,"5,739",0.3%,Quick Service,Burger
+46,2017,dunkin-donuts,"$8,226,100",7.9%,"8,828",4.7%,Quick Service,Coffee Cafe
+47,2017,chick-fil,"$6,743,000*",7.2%,"2,062",4.8%,Quick Service,Chicken
+48,2017,pizza-hut,"$5,751,381",0.8%,"7,689",-1.7%,Quick Service,Pizza
+49,2017,dominos,"$5,479,000*",14.1%,"5,371",3.3%,Quick Service,Pizza
+50,2017,panera-breadsaint-louis-bread-co,"$5,132,000",5.8%,"2,017",3.2%,Fast Casual,Bakery Cafe
+51,2017,sonic-drive,"$4,518,098",3.5%,"3,557",0.9%,Quick Service,Burger
+52,2017,kfc,"$4,483,315",3.6%,"4,167",-2.4%,Quick Service,Chicken
+53,2017,applebees,"$4,418,600",-6.2%,"1,857",-1.1%,Casual Dining,Varied Menu
+54,2017,olive-garden,"$3,865,000",3.3%,840,-0.1%,Casual Dining,Italian/Pizza
+55,2017,chipotle-mexican-grill,"$3,822,200*",-13.5%,"2,198",10.6%,Fast Casual,Mexican
+56,2017,little-caesars,"$3,800,000*",7.8%,"4,388",3.1%,Quick Service,Pizza
+57,2017,buffalo-wild-wings,"$3,785,000*",3.7%,"1,187",3.7%,Casual Dining,Sports Bar
+58,2017,arbys,"$3,662,490",6.1%,"3,237",0.7%,Quick Service,Sandwich
+59,2017,chilis-grill-bar,"$3,635,000*",-2.2%,"1,259",0.0%,Casual Dining,Varied Menu
+60,2016,mcdonalds,"$35,837,200",1.1%,"14,259",-0.6%,Quick Service,Burger
+61,2016,starbucks,"$13,936,114*",12.8%,"13,066",7.9%,Quick Service,Coffee Cafe
+62,2016,subway,"$11,500,000",-3.4%,"27,103",0.5%,Quick Service,Sandwich
+63,2016,taco-bell,"$9,100,000*",9.6%,"6,121",3.4%,Quick Service,Mexican
+64,2016,burger-king,"$9,000,000*",4.2%,"7,086",-0.5%,Quick Service,Burger
+65,2016,wendys,"$8,777,400*",1.6%,"5,722",-0.5%,Quick Service,Burger
+66,2016,dunkin-donuts,"$7,624,140",6.2%,"8,431",4.3%,Quick Service,Coffee Cafe
+67,2016,chick-fil,"$6,291,000*",8.8%,"1,950",3.3%,Quick Service,Chicken
+68,2016,pizza-hut,"$5,510,000*",0.2%,"7,799",-0.8%,Quick Service,Pizza
+69,2016,panera-breadsaint-louis-bread-co,"$4,795,900",7.1%,"1,955",4.8%,Fast Casual,Bakery Cafe
+70,2016,applebees,"$4,739,442",3.6%,"1,878",0.4%,Casual Dining,Varied Menu
+71,2016,dominos,"$4,708,587*",14.1%,"5,200",2.6%,Quick Service,Pizza
+72,2016,chipotle-mexican-grill,"$4,419,590",9.1%,"1,987",13.2%,Fast Casual,Mexican
+73,2016,sonic-drive,"$4,413,661",7.7%,"3,529",0.3%,Quick Service,Burger
+74,2016,kfc,"$4,001,490*",1.8%,"4,270",-2.3%,Quick Service,Chicken
+75,2016,olive-garden,"$3,743,000",3.3%,841,0.2%,Casual Dining,Italian/Pizza
+76,2016,buffalo-wild-wings,"$3,567,155",10.5%,"1,145",7.7%,Casual Dining,Sports Bar
+77,2016,dairy-queenorange-julius,"$3,531,186",10.1%,"4,506",-0.1%,Quick Service,Frozen Desserts
+78,2016,little-caesars,"$3,500,000*",5.3%,"4,250",3.4%,Quick Service,Pizza
+79,2016,arbys,"$3,450,855",8.6%,"3,214",-0.4%,Quick Service,Sandwich
